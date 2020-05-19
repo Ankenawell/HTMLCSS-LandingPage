@@ -45,8 +45,8 @@ section {
 
 /* Button look and feel */
 .btn{
-  cursor: auto;
-  border: none;
+  cursor: pointer;
+  border: 0;
   padding-top: 6px;
   padding-bottom: 6px;
   padding-left: 12px;
@@ -70,8 +70,8 @@ section {
   display: block;
   padding-top: 6px;
   padding-bottom: 6px;
-  padding-top: 12px;
-  padding-bottom: 12px;
+  padding-left: 12px;
+  padding-right: 12px;
   border: solid;
   border-color: #a0a0a0;
   color: #8598a2;
